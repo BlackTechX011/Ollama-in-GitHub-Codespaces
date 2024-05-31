@@ -1,13 +1,50 @@
-# Running Ollama in GitHub Codespaces
-Learn how to efficiently run Ollama in GitHub Codespaces for free.
 
-## What is a Codespace?
+<div align="center">
+
+  <h1>Running Ollama in GitHub Codespaces</h1>
+  
+  <p>
+    Learn how to efficiently run Ollama in GitHub Codespaces for free.
+  </p>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=BlackTechX&message=Ollama-in-GitHub-Codespaces&color=blue&logo=github" alt="BlackTechX - Ollama-in-GitHub-Codespaces"></a>
+    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces"><img src="https://img.shields.io/github/stars/BlackTechX011/Ollama-in-GitHub-Codespaces?style=social" alt="stars - Ollama-in-GitHub-Codespaces"></a>
+    <a href="https://github.com/BlackTechX011/Ollama-in-GitHub-Codespaces"><img src="https://img.shields.io/github/forks/BlackTechX011/Ollama-in-GitHub-Codespaces?style=social" alt="forks - Ollama-in-GitHub-Codespaces"></a>
+  </p>
+
+  <h4>
+    <a href="https://www.GitHub.com/BlackTechX011/">GITHUB</a>
+    <span> · </span>
+    <a href="https://www.instagram.com/BlackTechX011/">INSTAGRAM</a>
+    <span> · </span>
+    <a href="https://www.youtube.com/@BlackTechX_">YOUTUBE</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
+
+- [What is a Codespace?](#star2-what-is-a-codespace)
+- [What is Ollama?](#star2-what-is-ollama)
+- [Setting Up Ollama in GitHub Codespaces](#wrench-setting-up-ollama-in-github-codespaces)
+- [Ollama Model Library](#books-ollama-model-library)
+
+<!-- What is a Codespace? -->
+## :star2: What is a Codespace?
+
 A codespace is a cloud-hosted development environment tailored for coding. GitHub Codespaces allows you to customize your project by committing configuration files to your repository, creating a consistent and repeatable environment for all users. For more details, refer to the [Introduction to dev containers](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers).
 
-## What is Ollama?
+<!-- What is Ollama? -->
+## :star2: What is Ollama?
+
 Ollama is an open-source project designed to simplify running Large Language Models (LLMs) on local machines. It provides a user-friendly interface and functionality to make advanced AI accessible and customizable.
 
-## Setting Up Ollama in GitHub Codespaces
+<!-- Setting Up Ollama in GitHub Codespaces -->
+## :wrench: Setting Up Ollama in GitHub Codespaces
 
 Follow these steps to set up and run Ollama in a GitHub Codespace:
 
@@ -42,7 +79,8 @@ Follow these steps to set up and run Ollama in a GitHub Codespace:
   ollama run llama3
   ```
 
-## Ollama Model Library
+<!-- Ollama Model Library -->
+## :books: Ollama Model Library
 
 Ollama provides a variety of models that you can download and use. Visit the [Ollama model library](https://ollama.com/library) for a complete list.
 
